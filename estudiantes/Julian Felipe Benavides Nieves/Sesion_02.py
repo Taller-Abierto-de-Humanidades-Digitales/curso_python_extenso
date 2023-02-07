@@ -1,4 +1,4 @@
-cuento = "Arrasado el jardín, profanados los cálices y las aras, entraron a caballo los hunos en la biblioteca monástica y rompieron los libros incomprensibles y los vituperaron y los quemaron, acaso temerosos de que las letras encubrieran blasfemias contra su dios, que era una cimitarra de hierro. Jorge Luis Borges, 'Los teólogos'."
+#cuento = "Arrasado el jardín, profanados los cálices y las aras, entraron a caballo los hunos en la biblioteca monástica y rompieron los libros incomprensibles y los vituperaron y los quemaron, acaso temerosos de que las letras encubrieran blasfemias contra su dios, que era una cimitarra de hierro. Jorge Luis Borges, 'Los teólogos'."
 
 # ## Concatenación
 
@@ -13,7 +13,7 @@ cuento = "Arrasado el jardín, profanados los cálices y las aras, entraron a ca
 
 # ## comparar traducciones
 
-# trad1 = """
+trad1 = """
 #         FORTINBRÁS Cuatro capitanes portarán a Hamlet marcialmente al catafalco, pues, de habérsele brindado, habría sido un gran rey. Su muerte será honrada con sones militares y ritos de guerrero. Llevaos los cadáveres. Esta escena, más propia de batalla, aquí disuena. Vamos, que disparen los soldados
 #         """
 # trad2 = """
@@ -48,7 +48,7 @@ frase = "Arrasando el jardin"
 
 # print(frase)
 
-# frase = frase.replace("jardin","jardín" )
+# frase = frase.replace("jardin","jardín")
 
 # print(frase)
 
